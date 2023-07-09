@@ -1,4 +1,4 @@
-![MasterHead](https://i.gyazo.com/58ae7cc15891e20466da9e73653d7aba.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)
 
 <h1 align="center">Buenos Dias, I'm I'm Hamza</h1>
 <h3 align="center">Real person</h3>
