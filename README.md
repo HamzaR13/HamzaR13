@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/0d5077373e1e1efb1668694f89cf3398/tumblr_pdgujcQ4fA1wraxsto1_1280.gif)
+![MasterHead](https://i.gyazo.com/58ae7cc15891e20466da9e73653d7aba.gif)
 
 <h1 align="center">Buenos Dias, I'm I'm Hamza</h1>
 <h3 align="center">Real person</h3>
