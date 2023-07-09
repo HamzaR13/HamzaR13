@@ -1,6 +1,6 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 
-<h1 align="center">Buenos Dias, I'm I'm Hamza</h1>
+<h1 align="center">Buenos Dias, I'm Hamza</h1>
 <h3 align="center">Real person</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/blue-eyes-blinking-c6dsaui90crc5ydf.gif">
 
